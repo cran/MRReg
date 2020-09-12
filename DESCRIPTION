@@ -1,6 +1,6 @@
 Package: MRReg
 Title: MDL Multiresolution Linear Regression Framework
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(given = "Chainarong",
            family = "Amornbunchornvej",
@@ -15,13 +15,13 @@ BugReports: https://github.com/DarkEyes/MRReg/issues
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.0), caret
-Imports: igraph, ggplot2 (>= 3.0)
-Suggests: knitr, rmarkdown
+Imports: igraph
+Suggests: knitr, rmarkdown, markdown
 VignetteBuilder: knitr
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-05-11 07:14:50 UTC; sai
+Packaged: 2020-09-12 04:19:12 UTC; Zero
 Author: Chainarong Amornbunchornvej [aut, cre]
     (<https://orcid.org/0000-0003-3131-0370>)
 Repository: CRAN
-Date/Publication: 2020-05-12 14:30:02 UTC
+Date/Publication: 2020-09-12 05:20:02 UTC
