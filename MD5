@@ -1,7 +1,7 @@
-803b7316e8d4d59aedd2201dc552ab45 *DESCRIPTION
+3873d6abec829f3cb12643134747e38e *DESCRIPTION
 ca7984f59b578c75ccb9fcaeda3354cf *LICENSE
 148afee49008545ef46829ee615f8088 *NAMESPACE
-686871bdcd639347bb3b748c1cd4ebb6 *NEWS.md
+133fd1312394ad02c2addc9938cda8e9 *NEWS.md
 5d61db8eeb1726b9c5682e73b5ead2d4 *R/FindMaxHomoOptimalPartitions.R
 0a99f7be0b6fe28355fc2511b3206245 *R/SimpleSimulation.R
 dab5b57edf33a2d251e34a2b4f436a47 *R/helperFunctions.R
@@ -12,7 +12,7 @@ fa864d7a705bb658e279b65381689611 *README.md
 0919a05253a4f2385e031f7bf3b50fc9 *inst/CITATION
 73b44dbc970a0bc64cc1d3a018028ce4 *inst/doc/MDLResFramework_Demo.R
 02905a75acf542629664193e411faf4b *inst/doc/MDLResFramework_Demo.Rmd
-b0edc4a284fb98075524b2b474d16e16 *inst/doc/MDLResFramework_Demo.html
+6d08e1d446bbc8cc4127f0c3c8134b09 *inst/doc/MDLResFramework_Demo.html
 bcfffdc4d2774fe39ff735db28ed9c1e *man/FIG/Htree.png
 f803e5b3ccb95d3e23d0879836c3b190 *man/FindMaxHomoOptimalPartitions.Rd
 b8eb84fef795916fb0e8556a1ae9d55a *man/PrintOptimalClustersResult.Rd
